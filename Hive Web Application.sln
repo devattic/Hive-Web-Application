@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hive Web Application", "Hive Web Application\Hive Web Application.csproj", "{BC3C1BCD-C9AA-4B2F-B962-5ADBB5A905B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleDefinitions", "ModuleDefinitions\ModuleDefinitions.csproj", "{56B62E73-8DF6-45C6-A319-0147CC4E44C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3C1BCD-C9AA-4B2F-B962-5ADBB5A905B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3C1BCD-C9AA-4B2F-B962-5ADBB5A905B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3C1BCD-C9AA-4B2F-B962-5ADBB5A905B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3C1BCD-C9AA-4B2F-B962-5ADBB5A905B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B62E73-8DF6-45C6-A319-0147CC4E44C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B62E73-8DF6-45C6-A319-0147CC4E44C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B62E73-8DF6-45C6-A319-0147CC4E44C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B62E73-8DF6-45C6-A319-0147CC4E44C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8838CF2-B601-4E19-B9EE-D036ED81A07A}
+	EndGlobalSection
+EndGlobal
