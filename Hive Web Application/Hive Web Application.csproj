@@ -11,9 +11,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevAttic.Hive.AspNetCore" Version="1.3.2" />
-    <PackageReference Include="DevAttic.Hive.Dashboard" Version="1.3.0" />
-    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.5" />
+    <PackageReference Include="DevAttic.Hive.AspNetCore" Version="1.3.3" />
+    <PackageReference Include="DevAttic.Hive.Dashboard" Version="1.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.6" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.3" />
   </ItemGroup>
 
